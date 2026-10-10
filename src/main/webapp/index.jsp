@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Welcome to NMIMS ,Sanjeev Singh from BTtech</h2>
+	<h2>Locally change kia, git me push kia, then build kia github link pe</h2>
 
 
 	<a href="displayForm.htm">Registration Form</a>
